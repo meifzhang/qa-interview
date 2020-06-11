@@ -3,3 +3,8 @@
 
 ## union 和 union all 的区别？
 
+union 对结果去重，而 union all 不对结果去重。
+
+参考资料：
+
+1. [SQL UNION 操作符](https://www.runoob.com/sql/sql-union.html)

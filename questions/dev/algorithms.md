@@ -8,7 +8,23 @@
 
 # 算法
 
-- 排序
+## 排序算法
+
+- 冒泡排序
+- 选择排序
+- 插入排序
+- 归并排序
+- 快速排序
+- 随机快速排序
+- 计数排序
+
+进一步学习：
+
+1. [排序算法的动画演示](https://visualgo.net/zh/sorting?slide=1)
+1. [排序算法的 Java 实现](https://github.com/ly1012/qa-edu-java-all/tree/master/java-algorithms/src/main/java/sort)
+
+## 其他
+
 - 递归
 - 递推算法
 - 二分查找
